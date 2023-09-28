@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AssignmentCITS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimaryDark">#32CD32</item>
+        <item name="colorOnPrimaryContainer">#5AE092</item>
+        <item name="colorPrimaryContainer">#5AE092</item>
+        <item name="itemActiveIndicatorStyle">@color/onItemSelectedColor</item>
+    </style>
+    <style name="SplashScreenTheme" parent="Theme.SplashScreen.IconBackground">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_background</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.AssignmentCITS</item>
+        <item name="windowSplashScreenBackground">#63F7D4</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/white</item>
+    </style>
+</resources>

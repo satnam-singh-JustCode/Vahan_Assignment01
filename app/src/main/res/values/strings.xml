@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vahan Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_title">Hello There\n</string>
+    <string name="notification_message">App running your list is getting updated in every 10 seconds</string>
+    <string name="ticker_text">Context...\n</string>
+</resources>
